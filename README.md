@@ -202,4 +202,4 @@ This repository serves as the official landing page for Aegis Force: The Scorian
 **Get the most recent version of Aegis Force: The Scorian War today!**
 
 ---
-**Last updated:** 2026-11-12 13:20:46 UTC
+**Last updated:** 2026-11-12 21:10:10 UTC
